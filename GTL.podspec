@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://code.google.com/p/google-api-objectivec-client/source/checkout"
 
   s.author       = { "VladimirGoncharov" => "vladimir.goncharov@flatstack.com" }
-  s.platform     = :ios, ‘5.0’
+  s.platform     = :ios, "5.0"
 
   s.requires_arc = false
 
